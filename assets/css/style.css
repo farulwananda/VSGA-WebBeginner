@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background-color: #f1f4f5;
+}
+
+nav {
+  background-color: #0891b2;
+}
+
+main {
+  margin-top: 30px;
+}
+
+.card-header {
+  background-color: #0891b2;
+}
+
+.btn-default {
+  background-color: #0891b2 !important;
+}
+
+.card-top {
+  margin-top: 160px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.img-style {
+  margin-left: 20px;
+  margin-top: 80px;
+}
